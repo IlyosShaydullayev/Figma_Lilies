@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Poppins",
+			"path": "../../../Poppins"
+		},
+		{
+			"name": "Figma 1-dars",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Figma 1-dars"
+	}
+}

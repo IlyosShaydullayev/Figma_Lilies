@@ -1,0 +1,170 @@
+.img{
+    position: absolute;
+width: 764px;
+height: 900px;
+left: 0px;
+top: 0px;
+
+background: url(jimmy-dean-Jvw3pxgeiZw-unsplash.jpg);
+}
+.welcome{
+    position: absolute;
+width: 214px;
+height: 33px;
+left: 982px;
+top: 278px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 27px;
+line-height: 33px;
+/* identical to box height, or 122% */
+
+
+color: #00302E;
+
+}
+.form_box{
+    position: absolute;
+width: 488px;
+height: 71px;
+left: 845px;
+top: 372px;
+
+background: rgba(255, 255, 255, 0.83);
+border: 1px solid rgba(251, 221, 187, 0.51);
+border-radius: 5px;
+}
+.form{
+    position: absolute;
+width: 134px;
+height: 33px;
+left: 870px;
+top: 391px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 33px;
+/* identical to box height, or 236% */
+
+text-align: center;
+
+color: rgba(0, 48, 46, 0.53);
+}
+.password_box{
+    position: absolute;
+width: 488px;
+height: 71px;
+left: 845px;
+top: 491px;
+
+background: rgba(255, 255, 255, 0.83);
+border: 1px solid rgba(251, 221, 187, 0.51);
+border-radius: 5px;
+}
+.password{
+    position: absolute;
+width: 103px;
+height: 33px;
+left: 870px;
+top: 510px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 33px;
+/* identical to box height, or 236% */
+
+text-align: center;
+
+color: rgba(0, 48, 46, 0.53);
+}
+.password_inside{
+    position: absolute;
+width: 37px;
+height: 33px;
+left: 1266px;
+top: 510px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 33px;
+/* identical to box height, or 236% */
+
+text-align: center;
+
+color: #00302E;
+}
+.btn_box{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 40px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 488px;
+    height: 60px;
+    left: 845px;
+    top: 610px;
+    
+    background: #00302E;
+    border-radius: 5px;
+}
+.btn{
+    width: 54px;
+    height: 21px;
+    
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    
+    color: #FBDDBB;
+    
+}
+.create{
+    position: absolute;
+width: 133px;
+height: 33px;
+left: 846px;
+top: 704px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 33px;
+/* identical to box height, or 236% */
+
+text-align: center;
+
+color: rgba(0, 48, 46, 0.91);
+}
+.forgot{
+    position: absolute;
+width: 125px;
+height: 33px;
+left: 1208px;
+top: 704px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 33px;
+/* identical to box height, or 236% */
+
+text-align: center;
+
+color: rgba(0, 48, 46, 0.91);
+}

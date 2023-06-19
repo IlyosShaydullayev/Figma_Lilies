@@ -1,0 +1,187 @@
+.img{
+    position: absolute;
+width: 764px;
+height: 900px;
+left: 0px;
+top: 0px;
+
+background: url(joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg);
+}
+.welcome{
+    position: absolute;
+    width: 247px;
+    height: 33px;
+    left: 985px;
+    top: 204px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 33px;
+    /* identical to box height, or 122% */
+    
+    
+    color: #00302E;
+    
+}
+.form_box{
+    position: absolute;
+    width: 488px;
+    height: 71px;
+    left: 848px;
+    top: 298px;
+    
+    background: rgba(255, 255, 255, 0.83);
+    border: 1px solid rgba(251, 221, 187, 0.51);
+    border-radius: 5px;
+}
+.form{
+    position: absolute;
+width: 110px;
+height: 33px;
+left: 873px;
+top: 317px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 33px;
+/* identical to box height, or 236% */
+
+text-align: center;
+
+color: rgba(0, 48, 46, 0.53);
+
+}
+.email_box{
+    position: absolute;
+    width: 488px;
+    height: 71px;
+    left: 848px;
+    top: 416px;
+    
+    background: rgba(255, 255, 255, 0.83);
+    border: 1px solid rgba(251, 221, 187, 0.51);
+    border-radius: 5px;
+}
+.email{
+    position: absolute;
+    width: 134px;
+    height: 33px;
+    left: 873px;
+    top: 435px;
+    opacity: 0.4;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 33px;
+    /* identical to box height, or 236% */
+    
+    text-align: center
+}
+.password_box{
+    position: absolute;
+width: 488px;
+height: 71px;
+left: 857px;
+top: 515px;
+
+background: rgba(255, 255, 255, 0.83);
+border: 1px solid rgba(251, 221, 187, 0.51);
+border-radius: 5px;
+}
+.password{
+    position: absolute;
+width: 103px;
+height: 33px;
+left: 873px;
+top: 534px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 33px;
+/* identical to box height, or 236% */
+
+text-align: center;
+
+color: rgba(0, 48, 46, 0.53);
+}
+.password_inside{
+    position: absolute;
+width: 37px;
+height: 33px;
+left: 1269px;
+top: 534px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 33px;
+/* identical to box height, or 236% */
+
+text-align: center;
+
+color: #00302E;
+
+}
+.btn_box{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px 40px;
+gap: 10px;
+
+position: absolute;
+width: 488px;
+height: 60px;
+left: 848px;
+top: 636px;
+
+background: #00302E;
+border-radius: 5px;
+}
+.btn{
+    width: 72px;
+height: 21px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+color: #FBDDBB;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.login{
+    position: absolute;
+width: 227px;
+height: 33px;
+left: 978px;
+top: 724px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 33px;
+/* identical to box height, or 236% */
+
+text-align: right;
+
+color: rgba(0, 48, 46, 0.91);
+}
